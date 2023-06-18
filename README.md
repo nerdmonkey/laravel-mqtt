@@ -1,4 +1,4 @@
-# This is my package laravel-mqtt
+# Laravel MQTT
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/nerdmonkey/laravel-mqtt.svg?style=flat-square)](https://packagist.org/packages/nerdmonkey/laravel-mqtt)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/nerdmonkey/laravel-mqtt/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/nerdmonkey/laravel-mqtt/actions?query=workflow%3Arun-tests+branch%3Amain)
