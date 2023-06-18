@@ -1,6 +1,5 @@
 <?php
 
-// config for Nerdmonkey/Mqtt
 return [
     'topics' => [
         'first-topic' => 'firstHandler',
